@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 17 11:09:10 2023
 
-@author: DELL
-"""
 
 import numpy as np
 import pickle
